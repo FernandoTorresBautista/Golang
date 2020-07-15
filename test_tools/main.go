@@ -54,5 +54,7 @@ Algunas herramientas de GO:
 - debugger go
 	for the configuration of the json only change the direction and is all: "${workspaceRoot}/test_tools",
 
+- Unit testing
+
 
 */
